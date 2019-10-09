@@ -1,0 +1,40 @@
+2016-09-28 04:30:31, Info                  CBS    SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]
+2016-09-28 04:30:31, Info                  CBS    SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]
+2016-09-28 04:30:31, Info                  CBS    SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6
+2016-09-28 04:30:31, Info                  CBS    SQM: Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL]
+2016-09-28 04:30:31, Info                  CBS    No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.
+2016-09-28 04:30:31, Info                  CBS    NonStart: Checking to ensure startup processing was not required.
+2016-09-28 04:30:31, Info                  CSI    00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90
+2016-09-28 04:30:31, Info                  CSI    00000005 Creating NT transaction (seq 1), objectname [6]"(null)"
+2016-09-28 04:30:31, Info                  CSI    00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214
+2016-09-28 04:30:31, Info                  CSI    00000007@2016/9/27:20:30:31.462 CSI perf trace:
+2016-09-28 04:30:31, Info                  CBS    NonStart: Success, startup processing not required as expected.
+2016-09-28 04:30:31, Info                  CBS    Startup processing thread terminated normally
+2016-09-28 04:30:31, Info                  CSI    00000008 CSI Store 4991456 (0x00000000004c29e0) initialized
+2016-09-28 04:30:31, Info                  CBS    Session: 30546173_4261722401 initialized by client WindowsUpdateAgent.
+2016-09-28 04:30:31, Info                  CBS    Session: 30546173_4262462443 initialized by client WindowsUpdateAgent.
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Warning: Unrecognized packageExtended attribute.
+2016-09-28 04:30:31, Info                  CBS    Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]
+2016-09-28 04:30:31, Info                  CBS    Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]

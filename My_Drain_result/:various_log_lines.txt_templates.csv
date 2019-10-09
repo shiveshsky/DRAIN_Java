@@ -1,0 +1,9 @@
+Event_id,Event_template_str,occurrence
+7fd464fe,"2016-09-28 04:30:30, Info CBS Loaded Servicing Stack v6.1.7601.23505 with Core: C:\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\\cbscore.dll",1
+c9de1a65,"2016-09-28 04:30:31, Info CSI <*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d <*> <*> <*> <*> <*>",3
+2818ac75,"2016-09-28 04:30:31, Info CBS Ending TrustedInstaller initialization.",1
+a25e8953,"2016-09-28 04:30:31, Info CBS Starting the TrustedInstaller main loop.",1
+f061c098,"2016-09-28 04:30:31, Info CBS TrustedInstaller service starts successfully.",1
+22bdbd18,"2016-09-28 04:30:31, Info CBS SQM: Initializing online with Windows opt-in: False",1
+90abb51d,"2016-09-28 04:30:31, Info CBS SQM: Cleaning up report files older than 10 days.",1
+7571d139,"2016-09-28 04:30:31, Info CBS SQM: Requesting upload of all unsent reports.",1
